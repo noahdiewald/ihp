@@ -305,7 +305,7 @@ attributes = Set.fromList
         , "for"
         , "formtarget", "headers", "height", "hidden", "high", "href"
         , "hreflang", "http-equiv", "icon", "id", "ismap", "item", "itemprop"
-        , "itemscope", "itemtype"
+        , "itemscope", "itemtype", "kind"
         , "keytype", "label", "lang", "list", "loop", "low", "manifest", "max"
         , "maxlength", "media", "method", "min", "multiple", "name"
         , "novalidate", "onbeforeonload", "onbeforeprint", "onblur", "oncanplay"
